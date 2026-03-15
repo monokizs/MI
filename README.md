@@ -15,4 +15,4 @@ Ez a projekt egy mesterséges intelligencia alapú gyümölcsfelismerő rendszer
 ## 📖 Használat
 A jegyzetfüzet futtatásához kattints az alábbi gombra:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monokizs/FruitSense-AI/blob/main/FruitSense.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monokizs/MI/blob/main/FruitSense.ipynb)
